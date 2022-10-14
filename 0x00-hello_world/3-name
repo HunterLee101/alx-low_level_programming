@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
+=======
+#1/bin/bash
+>>>>>>> a076116dd71c3d23538292d7e73130d443cc6d5d
 gcc $CFILE -0 cisfun
