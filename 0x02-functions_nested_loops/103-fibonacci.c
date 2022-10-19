@@ -14,9 +14,9 @@ int main(void)
 	while (1)
 	{
 		fibsum = fib1 + fib2;
-		if (fibsum >4000000)
+		if (fibsum > 4000000)
 			break;
-		
+
 		if ((fibsum % 2) == 0)
 			tot_sum += fibsum;
 
