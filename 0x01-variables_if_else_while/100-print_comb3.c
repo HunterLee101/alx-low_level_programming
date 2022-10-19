@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - program that prints all possible different combinations of two digits.
+ * main - program that prints all possible different combinations of two digits
  * Numbers must be separated by ,, followed by a space
  *
  * Return: Always 0.
@@ -8,6 +8,7 @@
 int main(void)
 {
 	int num1, num2;
+
 	for (num1 = 0; num1 < 9; num1++)
 	{
 		for (num2 = num1 +1; num2 < 10; num2 ++)
